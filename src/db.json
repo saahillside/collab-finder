@@ -1,0 +1,426 @@
+{
+  "collabs": [
+    {
+      "id": "1",
+      "title": "Drummer needed for track 'Echo!'",
+      "role": "Drummer",
+      "genre": "Indie Rock",
+      "description": "Looking for a tight, creative drummer to collaborate on a 2-minute demo. Must be comfortable with ambient textures.",
+      "link": "https://soundcloud.com/rahul-anand-774376912/sapphire-desi-mix-dj-nick?in=trending-music-in/sets/pop",
+      "postedBy": "Saahil",
+      "postedOn": "2025-07-11T00:00:00Z",
+      "responses": 3
+    },
+    {
+      "id": "2",
+      "title": "Female vocals for lo-fi demo",
+      "role": "Vocalist",
+      "genre": "Lo-fi",
+      "description": "Soft, dreamy vocals needed for a mellow lo-fi beat. One chorus sample is fine.",
+      "responses": 2,
+      "postedOn": "2025-07-10T00:00:00Z",
+      "postedBy": "rhea_",
+      "link": "https://soundcloud.com/lakeyinspired/days-like-these"
+    },
+    {
+      "id": "4",
+      "title": "Looking for a synth wizard for 80s-style track",
+      "role": "Synth Player",
+      "genre": "Synthwave",
+      "description": "Need vintage synth vibes layered over a retro drum loop. Think Stranger Things OST.",
+      "responses": 4,
+      "postedOn": "2025-07-08T00:00:00Z",
+      "postedBy": "kai_beats",
+      "link": "https://soundcloud.com/timecop1983/lovers"
+    },
+    {
+      "id": "5",
+      "title": "Mix engineer needed for hip-hop EP",
+      "role": "Mix Engineer",
+      "genre": "Hip-Hop",
+      "description": "4 tracks already recorded, just need a solid mix. References: J. Cole, Freddie Gibbs.",
+      "responses": 5,
+      "postedOn": "2025-07-07T00:00:00Z",
+      "postedBy": "Saahil",
+      "link": "https://soundcloud.com/freddiegibbs/thuggin"
+    },
+    {
+      "id": "6",
+      "title": "Looking for flute player for fusion track",
+      "role": "Instrumentalist",
+      "genre": "Indian Fusion",
+      "description": "Track combines tabla, lo-fi beats, and ambient pads. Need an expressive flute solo.",
+      "responses": 2,
+      "postedOn": "2025-07-06T00:00:00Z",
+      "postedBy": "aanchal_raga",
+      "link": "https://soundcloud.com/charlieparradelriego/flute-raga"
+    },
+    {
+      "id": "7",
+      "title": "Pianist for emotional pop ballad",
+      "role": "Pianist",
+      "genre": "Pop",
+      "description": "Looking for soft piano layers for an Adele-style ballad.",
+      "responses": 3,
+      "postedOn": "2025-07-05T00:00:00Z",
+      "postedBy": "emjay",
+      "link": "https://soundcloud.com/adele/when-we-were-young"
+    },
+    {
+      "id": "8",
+      "title": "Trap producer for collab EP",
+      "role": "Producer",
+      "genre": "Trap",
+      "description": "Need co-producer for a 5-track trap EP. Dark, bouncy vibe.",
+      "responses": 4,
+      "postedOn": "2025-07-04T00:00:00Z",
+      "postedBy": "dripgod",
+      "link": "https://soundcloud.com/nascentbeats/trap-demo"
+    },
+    {
+      "id": "9",
+      "title": "Jazz saxophone soloist for fusion track",
+      "role": "Saxophonist",
+      "genre": "Jazz Fusion",
+      "description": "Short sax solo needed over jazzy hip-hop groove.",
+      "responses": 1,
+      "postedOn": "2025-07-03T00:00:00Z",
+      "postedBy": "beat_baker",
+      "link": "https://soundcloud.com/nujabes/aurarian-dance"
+    },
+    {
+      "id": "10",
+      "title": "Guitarist for psychedelic rock track",
+      "role": "Guitarist",
+      "genre": "Psychedelic Rock",
+      "description": "Looking for fuzzy, psychedelic guitar licks and solos.",
+      "responses": 3,
+      "postedOn": "2025-07-02T00:00:00Z",
+      "postedBy": "Saahil",
+      "link": "https://soundcloud.com/ty-segall/finger"
+    },
+    {
+      "id": "11",
+      "title": "Hindi rapper for bilingual song",
+      "role": "Rapper",
+      "genre": "Hip-Hop",
+      "description": "Track has English verse, need Hindi verse in similar style.",
+      "responses": 6,
+      "postedOn": "2025-07-01T00:00:00Z",
+      "postedBy": "mc_bollywood",
+      "link": "https://soundcloud.com/divine-nitin/gullygang"
+    },
+    {
+      "id": "12",
+      "title": "Melodic techno vocalist needed",
+      "role": "Vocalist",
+      "genre": "Melodic Techno",
+      "description": "Need airy, distant vocals for dark melodic techno beat.",
+      "responses": 2,
+      "postedOn": "2025-06-30T00:00:00Z",
+      "postedBy": "tech_freq",
+      "link": "https://soundcloud.com/boreta/melodic-vocal"
+    },
+    {
+      "id": "13",
+      "title": "Need a violinist for cinematic intro",
+      "role": "Violinist",
+      "genre": "Cinematic",
+      "description": "Violin intro for an orchestral hybrid track. Epic style.",
+      "responses": 1,
+      "postedOn": "2025-06-29T00:00:00Z",
+      "postedBy": "epicscorez",
+      "link": "https://soundcloud.com/epicmusicvn/epic-cinematic-intro"
+    },
+    {
+      "id": "14",
+      "title": "Looking for a pop songwriter (female vocals)",
+      "role": "Songwriter",
+      "genre": "Pop",
+      "description": "Help write and arrange a catchy pop chorus.",
+      "responses": 3,
+      "postedOn": "2025-06-28T00:00:00Z",
+      "postedBy": "rhea_",
+      "link": "https://soundcloud.com/katy-perry/chorus-idea"
+    },
+    {
+      "id": "15",
+      "title": "Need ambient guitar textures",
+      "role": "Guitarist",
+      "genre": "Ambient",
+      "description": "Create dreamy, reverb-heavy layers for ambient soundscape.",
+      "responses": 2,
+      "postedOn": "2025-06-27T00:00:00Z",
+      "postedBy": "zenwaves",
+      "link": "https://soundcloud.com/ambientmusique/dreamguitar"
+    },
+    {
+      "id": "16",
+      "title": "Co-producer for afrobeat track",
+      "role": "Producer",
+      "genre": "Afrobeat",
+      "description": "Working on a Burna Boy inspired track. Need bouncy percussion ideas.",
+      "responses": 4,
+      "postedOn": "2025-06-26T00:00:00Z",
+      "postedBy": "afrosoul",
+      "link": "https://soundcloud.com/burnaboyofficial/afrobeat-collab"
+    },
+    {
+      "id": "17",
+      "title": "Looking for a DnB MC",
+      "role": "MC",
+      "genre": "Drum & Bass",
+      "description": "Track is high-energy, need a fast-spitting MC.",
+      "responses": 5,
+      "postedOn": "2025-06-25T00:00:00Z",
+      "postedBy": "junglejim",
+      "link": "https://soundcloud.com/hospitalrecords/dnb-mc-sample"
+    },
+    {
+      "id": "18",
+      "title": "Need creative topliner for chill track",
+      "role": "Topliner",
+      "genre": "Chill",
+      "description": "Looking for a vocalist to come up with melody & lyrics.",
+      "responses": 1,
+      "postedOn": "2025-06-24T00:00:00Z",
+      "postedBy": "Saahil",
+      "link": "https://soundcloud.com/chillhopdotcom/topline-demo"
+    },
+    {
+      "id": "19",
+      "title": "Sound designer for horror short film",
+      "role": "Sound Designer",
+      "genre": "Film Score",
+      "description": "Need creepy sound textures and atmospheres.",
+      "responses": 2,
+      "postedOn": "2025-06-23T00:00:00Z",
+      "postedBy": "cinemaniac",
+      "link": "https://soundcloud.com/horrorsound/horror-score-demo"
+    },
+    {
+      "id": "20",
+      "title": "Boom bap rapper wanted for old-school collab",
+      "role": "Rapper",
+      "genre": "Boom Bap",
+      "description": "Project is 90s-style hip-hop. Need someone with raw bars.",
+      "responses": 3,
+      "postedOn": "2025-06-22T00:00:00Z",
+      "postedBy": "oldskool",
+      "link": "https://soundcloud.com/classichiphop/boombap-track"
+    },
+    {
+      "id": "f786",
+      "title": "Need a talented vocalist NOW",
+      "role": "Vocalist",
+      "genre": "Experimental",
+      "description": "It's a very weird track. I need someone who's willing to work on something very experimental.",
+      "link": "https://soundcloud.com/flamehood-official/what-do-you-want",
+      "postedBy": "Saahil",
+      "postedOn": "2025-07-12T17:44:04.968Z",
+      "responses": 0
+    },
+    {
+      "id": "d300",
+      "title": "Need a guitarist!",
+      "role": "Guitarist",
+      "genre": "Ambient",
+      "description": "REALLY NEED ONE!",
+      "link": "https://soundcloud.com/itsretz/mistakes",
+      "responses": 0,
+      "postedBy": "Saahil",
+      "postedOn": "2025-07-12T19:00:58.148Z"
+    },
+    {
+      "id": "a97c",
+      "title": "Ghazal fusion",
+      "role": "Vocalist",
+      "genre": "Classical",
+      "description": "Need a cosinger for cocreating duet ghazals",
+      "link": "https://youtube.com/pskool05",
+      "responses": 0,
+      "postedBy": "pskool05",
+      "postedOn": "2025-07-13T12:11:43.104Z"
+    }
+  ],
+  "responses": [
+    {
+      "id": "r1",
+      "responseTo": "1",
+      "responseBy": "rhea_",
+      "message": "I'm a drummer and this sounds right up my alley!",
+      "soundcloud": "https://soundcloud.com/rhea-beats/demo-drum-track",
+      "ig": "https://instagram.com/rhea_music"
+    },
+    {
+      "id": "r2",
+      "responseTo": "2",
+      "responseBy": "Saahil",
+      "message": "I love lo-fi. Here's a quick chorus idea!",
+      "soundcloud": "https://soundcloud.com/saahilbeats/lofi-chorus-snippet",
+      "ig": "https://instagram.com/saahil.wav"
+    },
+    {
+      "id": "r3",
+      "responseTo": "f786",
+      "responseBy": "kai_beats",
+      "message": "This is definitely weird, but I’m into it. Here’s a vocal snippet.",
+      "soundcloud": "https://soundcloud.com/kai_beats/experimental-vocals",
+      "ig": "https://instagram.com/kaibeats"
+    },
+    {
+      "id": "706c",
+      "message": "Hi I can work on this.",
+      "soundcloud": "https://soundcloud.com/trending-music-in/sets/soul",
+      "instagram": "https://www.instagram.com/flamehood.wav/?hl=en",
+      "responseTo": "4",
+      "responseBy": "Saahil"
+    },
+    {
+      "id": "1f86",
+      "message": "I'm in yo.",
+      "soundcloud": "https://soundcloud.com/itsretz/mistakes",
+      "instagram": "https://www.instagram.com/flamehood.wav/?hl=en",
+      "responseTo": "8",
+      "responseBy": "Saahil"
+    },
+    {
+      "id": "84f2",
+      "message": "Pls work",
+      "soundcloud": "https://soundcloud.com/saahil",
+      "instagram": "https://instagram.com/saahil_music",
+      "responseTo": "12",
+      "responseBy": "Saahil"
+    }
+  ],
+  "profiles": [
+    {
+      "id": "Saahil",
+      "username": "Saahil",
+      "password": "thisis",
+      "displayName": "Saahil Sharmaaa",
+      "bio": "Producer, coder, filmmaker passionate about music and tech.",
+      "profilePicture": "/images/profilepics/saahil.jpeg",
+      "genres": [
+        "Hip-Hop",
+        "Electronic",
+        "Trap"
+      ],
+      "roles": [
+        "Producer",
+        "Beatmaker",
+        "Mix Engineer",
+        "Sound Designer"
+      ],
+      "socialLinks": {
+        "soundcloud": "https://soundcloud.com/saahil",
+        "instagram": "https://instagram.com/saahil_music",
+        "youtube": "https://youtube.com/saahilchannel"
+      }
+    },
+    {
+      "id": "rhea_",
+      "username": "rhea_",
+      "password": "simplepassword",
+      "displayName": "Rhea Beats",
+      "bio": "Drummer and beatmaker with a love for hip-hop and trap.",
+      "profilePicture": "https://example.com/images/rhea.jpg",
+      "genres": [
+        "Hip-Hop",
+        "Trap"
+      ],
+      "roles": [
+        "Drummer",
+        "Beatmaker"
+      ],
+      "socialLinks": {
+        "soundcloud": "https://soundcloud.com/rhea-beats",
+        "instagram": "https://instagram.com/rhea_music"
+      }
+    },
+    {
+      "id": "vikram_music",
+      "username": "vikram_music",
+      "password": "ilovevikram",
+      "displayName": "Vikram Singh",
+      "bio": "Guitarist and composer exploring fusion and indie genres.",
+      "profilePicture": "https://example.com/images/vikram.jpg",
+      "genres": [
+        "Indie Rock",
+        "Jazz",
+        "Electronic"
+      ],
+      "roles": [
+        "Guitarist",
+        "Instrumentalist",
+        "Producer"
+      ],
+      "socialLinks": {
+        "soundcloud": "https://soundcloud.com/vikram",
+        "instagram": "https://instagram.com/vikram_official",
+        "youtube": "https://youtube.com/vikramchannel"
+      }
+    },
+    {
+      "id": "mia_productions",
+      "username": "mia_productions",
+      "password": "ilovemmia",
+      "displayName": "Mia Chen",
+      "bio": "Electronic music producer and sound designer.",
+      "profilePicture": "https://example.com/images/mia.jpg",
+      "genres": [
+        "Electronic",
+        "Ambient",
+        "Experimental"
+      ],
+      "roles": [
+        "Producer",
+        "Sound Designer"
+      ],
+      "socialLinks": {
+        "soundcloud": "https://soundcloud.com/mia-productions",
+        "instagram": "https://instagram.com/mia_productions"
+      }
+    },
+    {
+      "id": "slenderman",
+      "username": "slenderman",
+      "password": "slenderman!",
+      "displayName": "Saahil Varma",
+      "bio": "I am slenderman fr.",
+      "profilePicture": "example.com/slenderman",
+      "genres": [
+        "Indian Fusion"
+      ],
+      "roles": [
+        "Rapper",
+        "Pianist / Keyboardist",
+        "Sound Designer"
+      ],
+      "socialLinks": {
+        "soundcloud": "https://soundcloud.com/itsretz/mistakes",
+        "instagram": "https://instagram.com/saahil_music",
+        "youtube": "https://youtube.com/saahilchannel"
+      }
+    },
+    {
+      "id": "pskool05",
+      "username": "pskool05",
+      "password": "April@may1",
+      "displayName": "Pramod",
+      "bio": "kuch bhee",
+      "profilePicture": "example.com/slenderman",
+      "genres": [
+        "Indian Fusion"
+      ],
+      "roles": [
+        "Vocalist"
+      ],
+      "socialLinks": {
+        "soundcloud": "https://soundcloud.com/itsretz/mistakes",
+        "instagram": "https://www.instagram.com/flamehood.wav/?hl=en",
+        "youtube": "https://youtube.com/pskool05"
+      }
+    }
+  ]
+}
